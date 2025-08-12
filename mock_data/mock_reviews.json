@@ -1,0 +1,217 @@
+[
+  {
+    "place": "Starbucks",
+    "rating": 4.2,
+    "total_reviews": 152,
+    "place_id": "@bus=0001",
+    "reviews": [
+      {
+        "author_name": "Juan Pérez",
+        "rating": 5,
+        "text": "Muy buen café y atención.",
+        "relative_time_description": "hace 2 días",
+        "time": 1692032342
+      },
+      {
+        "author_name": "Luis Martínez",
+        "rating": 5,
+        "text": "El mejor frappuccino que he probado.",
+        "relative_time_description": "hace 3 días",
+        "time": 1691863142
+      },
+      {
+        "author_name": "Sofía Gómez",
+        "rating": 3,
+        "text": "Demasiada gente en hora pico.",
+        "relative_time_description": "hace 4 días",
+        "time": 1691776342
+      },
+      {
+        "author_name": "Andrés Torres",
+        "rating": 4,
+        "text": "Buena ubicación y café de calidad.",
+        "relative_time_description": "hace 5 días",
+        "time": 1691689942
+      },
+      {
+        "author_name": "María López",
+        "rating": 4,
+        "text": "Buen ambiente, pero un poco caro.",
+        "relative_time_description": "hace 1 semana",
+        "time": 1691437542
+      }
+    ]
+  },
+  {
+    "place": "Café Martínez",
+    "rating": 4.5,
+    "total_reviews": 87,
+    "place_id": "@bus=0002",
+    "reviews": [
+      {
+        "author_name": "Pedro Sánchez",
+        "rating": 5,
+        "text": "Atención rápida y amable.",
+        "relative_time_description": "hace 2 días",
+        "time": 1692032342
+      },
+      {
+        "author_name": "Carlos Gómez",
+        "rating": 5,
+        "text": "Excelente café y pastelería fresca.",
+        "relative_time_description": "hace 3 días",
+        "time": 1691863142
+      },
+      {
+        "author_name": "Lucía Fernández",
+        "rating": 4,
+        "text": "Muy bueno, aunque algo ruidoso.",
+        "relative_time_description": "hace 5 días",
+        "time": 1691689942
+      },
+      {
+        "author_name": "Héctor Ruiz",
+        "rating": 3,
+        "text": "El café estaba un poco frío.",
+        "relative_time_description": "hace 6 días",
+        "time": 1691603142
+      },
+      {
+        "author_name": "Valeria Pérez",
+        "rating": 4,
+        "text": "Buen lugar para reuniones.",
+        "relative_time_description": "hace 1 semana",
+        "time": 1691437542
+      }
+    ]
+  },
+  {
+    "place": "Havanna",
+    "rating": 4.0,
+    "total_reviews": 65,
+    "place_id": "@bus=0003",
+    "reviews": [
+      {
+        "author_name": "Miguel Torres",
+        "rating": 5,
+        "text": "Los alfajores son un must.",
+        "relative_time_description": "hace 1 día",
+        "time": 1692118742
+      },
+      {
+        "author_name": "Diego Herrera",
+        "rating": 4,
+        "text": "Buena atención y productos frescos.",
+        "relative_time_description": "hace 2 días",
+        "time": 1692032342
+      },
+      {
+        "author_name": "Laura Vázquez",
+        "rating": 4,
+        "text": "Muy buen lugar para merendar.",
+        "relative_time_description": "hace 3 días",
+        "time": 1691863142
+      },
+      {
+        "author_name": "Andrés Silva",
+        "rating": 4,
+        "text": "Las medialunas son increíbles.",
+        "relative_time_description": "hace 4 días",
+        "time": 1691776342
+      },
+      {
+        "author_name": "Paula Rodríguez",
+        "rating": 3,
+        "text": "Servicio lento, pero el café es bueno.",
+        "relative_time_description": "hace 1 semana",
+        "time": 1691437542
+      }
+    ]
+  },
+  {
+    "place": "The Coffee Store",
+    "rating": 4.3,
+    "total_reviews": 120,
+    "place_id": "@bus=0004",
+    "reviews": [
+      {
+        "author_name": "Fernando Díaz",
+        "rating": 5,
+        "text": "Café excelente y ambiente tranquilo.",
+        "relative_time_description": "hace 2 días",
+        "time": 1692032342
+      },
+      {
+        "author_name": "Ignacio Morales",
+        "rating": 5,
+        "text": "Espacio ideal para trabajar.",
+        "relative_time_description": "hace 3 días",
+        "time": 1691863142
+      },
+      {
+        "author_name": "Gabriela Ríos",
+        "rating": 3,
+        "text": "Un poco caro para la cantidad.",
+        "relative_time_description": "hace 4 días",
+        "time": 1691776342
+      },
+      {
+        "author_name": "Esteban Luna",
+        "rating": 4,
+        "text": "Café de calidad y buena música.",
+        "relative_time_description": "hace 5 días",
+        "time": 1691689942
+      },
+      {
+        "author_name": "Camila Castro",
+        "rating": 4,
+        "text": "Muy buen latte.",
+        "relative_time_description": "hace 1 semana",
+        "time": 1691437542
+      }
+    ]
+  },
+  {
+    "place": "Bonafide",
+    "rating": 4.1,
+    "total_reviews": 98,
+    "place_id": "@bus=0005",
+    "reviews": [
+      {
+        "author_name": "Martina Campos",
+        "rating": 4,
+        "text": "Excelente chocolate caliente.",
+        "relative_time_description": "hace 2 días",
+        "time": 1692032342
+      },
+      {
+        "author_name": "Carla Méndez",
+        "rating": 4,
+        "text": "Lugar cómodo y agradable.",
+        "relative_time_description": "hace 3 días",
+        "time": 1691863142
+      },
+      {
+        "author_name": "Rodrigo Álvarez",
+        "rating": 3,
+        "text": "El café estaba un poco amargo.",
+        "relative_time_description": "hace 4 días",
+        "time": 1691776342
+      },
+      {
+        "author_name": "Natalia Suárez",
+        "rating": 4,
+        "text": "Buena variedad de productos.",
+        "relative_time_description": "hace 5 días",
+        "time": 1691689942
+      },
+      {
+        "author_name": "Santiago López",
+        "rating": 5,
+        "text": "Muy buen café y atención rápida.",
+        "relative_time_description": "hace 1 semana",
+        "time": 1691437542
+      }
+    ]
+  }
+]

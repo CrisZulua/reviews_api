@@ -1,0 +1,27 @@
+# Entorno virtual
+reviews_api_env/
+.env
+
+# Archivos de configuración local
+*.env
+*.local
+.env.*
+
+# Cache de Python
+__pycache__/
+services/__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de dependencias de pip
+pip-wheel-metadata/
+
+# Archivos de logs
+*.log
+
+# Configuración de VSCode
+.vscode/
+
+# Windows
+Thumbs.db
